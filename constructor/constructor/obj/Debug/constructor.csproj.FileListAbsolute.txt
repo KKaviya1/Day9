@@ -1,0 +1,8 @@
+F:\Day - 9\constructor\constructor\bin\Debug\constructor.exe.config
+F:\Day - 9\constructor\constructor\bin\Debug\constructor.exe
+F:\Day - 9\constructor\constructor\bin\Debug\constructor.pdb
+F:\Day - 9\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+F:\Day - 9\constructor\constructor\obj\Debug\constructor.csproj.SuggestedBindingRedirects.cache
+F:\Day - 9\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+F:\Day - 9\constructor\constructor\obj\Debug\constructor.exe
+F:\Day - 9\constructor\constructor\obj\Debug\constructor.pdb

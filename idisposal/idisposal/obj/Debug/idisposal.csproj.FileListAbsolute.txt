@@ -1,0 +1,8 @@
+F:\Day - 9\idisposal\idisposal\obj\Debug\idisposal.csproj.AssemblyReference.cache
+F:\Day - 9\idisposal\idisposal\obj\Debug\idisposal.csproj.SuggestedBindingRedirects.cache
+F:\Day - 9\idisposal\idisposal\obj\Debug\idisposal.csproj.CoreCompileInputs.cache
+F:\Day - 9\idisposal\idisposal\bin\Debug\idisposal.exe.config
+F:\Day - 9\idisposal\idisposal\bin\Debug\idisposal.exe
+F:\Day - 9\idisposal\idisposal\bin\Debug\idisposal.pdb
+F:\Day - 9\idisposal\idisposal\obj\Debug\idisposal.exe
+F:\Day - 9\idisposal\idisposal\obj\Debug\idisposal.pdb

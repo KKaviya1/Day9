@@ -1,0 +1,8 @@
+F:\Day - 9\cric\cric\bin\Debug\cric.exe.config
+F:\Day - 9\cric\cric\bin\Debug\cric.exe
+F:\Day - 9\cric\cric\bin\Debug\cric.pdb
+F:\Day - 9\cric\cric\obj\Debug\cric.csproj.AssemblyReference.cache
+F:\Day - 9\cric\cric\obj\Debug\cric.csproj.SuggestedBindingRedirects.cache
+F:\Day - 9\cric\cric\obj\Debug\cric.csproj.CoreCompileInputs.cache
+F:\Day - 9\cric\cric\obj\Debug\cric.exe
+F:\Day - 9\cric\cric\obj\Debug\cric.pdb

@@ -1,0 +1,8 @@
+F:\Day - 9\RegEx\RegEx\obj\Debug\RegEx.csproj.AssemblyReference.cache
+F:\Day - 9\RegEx\RegEx\obj\Debug\RegEx.csproj.SuggestedBindingRedirects.cache
+F:\Day - 9\RegEx\RegEx\obj\Debug\RegEx.csproj.CoreCompileInputs.cache
+F:\Day - 9\RegEx\RegEx\bin\Debug\RegEx.exe.config
+F:\Day - 9\RegEx\RegEx\bin\Debug\RegEx.exe
+F:\Day - 9\RegEx\RegEx\bin\Debug\RegEx.pdb
+F:\Day - 9\RegEx\RegEx\obj\Debug\RegEx.exe
+F:\Day - 9\RegEx\RegEx\obj\Debug\RegEx.pdb

@@ -1,0 +1,3 @@
+F:\Day - 9\interface\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+F:\Day - 9\interface\interface\obj\Debug\interface.csproj.SuggestedBindingRedirects.cache
+F:\Day - 9\interface\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
